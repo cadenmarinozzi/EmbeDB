@@ -1,0 +1,6 @@
+**/node_modules
+**/.env
+**/modules.json
+**/__pycache__
+**/examples
+**/memory.json
